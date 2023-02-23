@@ -3,7 +3,7 @@
 
 # Projeto(treino) - Blog OpenIA utilizando React
 
-![Jogo: Mata-Mosquito](https://github.com/FialaMoises/jogo_mata_mosquito/blob/main/127.0.0.1_5500_html_index.html%20-%20Opera%202023-01-25%2013-46-43.gif)
+!https://sprightly-sprite-8c75e8.netlify.app
 
 ## 💻 Projeto de estudo:
 
