@@ -4,6 +4,7 @@
 # Projeto(treino) - Blog OpenIA utilizando React
 
 !https://sprightly-sprite-8c75e8.netlify.app
+![Blog da OPENIA](https://github.com/FialaMoises/OpenIA/blob/main/imagem_2023-02-23_201808939.png)
 
 ## 💻 Projeto de estudo:
 
