@@ -3,7 +3,7 @@
 
 # Projeto(treino) - Blog OpenIA utilizando React
 
-!https://sprightly-sprite-8c75e8.netlify.app
+![https://sprightly-sprite-8c75e8.netlify.app]
 ![Restaurant](https://github.com/FialaMoises/OpenIA/blob/main/imagem_2023-03-06_113357727.png)
 
 ## 💻 Projeto de estudo:
